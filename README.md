@@ -15,7 +15,7 @@ Feel free to clone my repositories and contribute to the open-source projects I�
 
 -# Harsh Kumar Suman, here
 
-💫 About Me
+💫
 Aspiring front-end developer with a strong foundation in web development technologies such as React.js, JavaScript, and Tailwind CSS. Passionate about building user-centric, scalable solutions, and constantly eager to learn and explore new technologies in the market to deliver innovative solutions.
 
 📞 7004261629 | ✉️ developer.harsh07@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/harshkumarsuman/) | [GitHub](https://github.com/HarshKumarSuman) | 🌍 [Portfolio](https://developerharshkumar.netlify.app/)
