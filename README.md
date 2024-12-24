@@ -32,6 +32,14 @@ Open-source projects, especially those focused on front-end web development, UI/
 ## 🤔 I’m looking for help with:
 Enhancing my understanding of TypeScript and advanced state management techniques. I’m also looking for guidance on building more efficient and optimized front-end architectures.
 
+## 🤯 Found Fun and Learned a Lot:
+**The Shopkart - Marketplace (Collaborated Project)**
+
+I learned greatly from my friends and from the errors I encountered during production (GitHub). Next.js was all new to me, and through their guidance, the mistakes made during coding, and pulling updates from GitHub, I grew significantly. YouTube tutorials and documentation were my go-to resources for learning Tailwind CSS.
+- Designed and developed the front end using Next.js, Tailwind CSS, and JavaScript, ensuring a visually appealing and intuitive user experience.
+- Collaborated with a team member to implement features for secure user registration and login.
+- Gained practical experience in Tailwind CSS for styling and Next.js for framework usage, further showcasing strong UI development skills.
+
 ## 💬 Ask me about:
 - Front-end development with React, Tailwind CSS, and JavaScript.
 - Best practices for creating responsive and accessible web designs.
@@ -43,15 +51,7 @@ You can email me at [developer.harsh07@gmail.com](mailto:developer.harsh07@gmail
 He/Him
 
 ## ⚡ Fun fact:
-I once built a weather app in one weekend just for fun and ended up learning so much about API integration and error handling!
-
-## 🤯 Found Fun and Learned a Lot:
-**The Shopkart - Marketplace (Collaborated Project)**
-
-- Learned a great deal from my friends and from the errors I encountered during production (GitHub). Next.js was all new to me, and through their guidance, the mistakes made during coding, and pulling updates from GitHub, I grew significantly. YouTube tutorials and documentation were my go-to resources for learning Tailwind CSS.
-- Designed and developed the front end using Next.js, Tailwind CSS, and JavaScript, ensuring a visually appealing and intuitive user experience.
-- Collaborated with a team member to implement features for secure user registration and login.
-- Gained practical experience in Tailwind CSS for styling and Next.js for framework usage, further showcasing strong UI development skills.
+I once built a weather app in one weekend just for fun and learned so much about API integration and error handling!
 
 
 
@@ -64,29 +64,3 @@ I once built a weather app in one weekend just for fun and ended up learning so 
 
 
 
-
-
-
-
-
-
-
-Weather-App
-Developed a weather application using HTML5, CSS3, JavaScript, and the OpenWeatherMap API.
-Displayed real-time temperature, humidity, and wind speed data based on user input.
-Implemented error handling for invalid city names.
-To-Do List
-Created a dynamic task management application with JavaScript, HTML, and CSS.
-Integrated local storage to save tasks persistently across sessions.
-🎓 Certifications
-React Basics - Meta (via Coursera)
-Advanced React - Meta (via Coursera)
-Programming with JavaScript - Meta (via Coursera)
-Cybersecurity and Forensics - Quick Heal Private Limited
-🔑 Key Achievements
-Gained hands-on experience with modern web development tools and frameworks, showcasing strong problem-solving skills.
-Enhanced productivity by completing online certifications in React.js and JavaScript, focusing on building efficient and scalable solutions.
-🧠 Soft Skills
-Effective communication and teamwork
-Strong problem-solving and debugging skills
-Adaptable and proactive in learning
