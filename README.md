@@ -13,7 +13,7 @@ Feel free to clone my repositories and contribute to the open-source projects Iâ
 
 -->
 
--# Harsh Kumar Suman, here
+# Harsh Kumar Suman, here
 
 Aspiring front-end developer with a strong foundation in web development technologies such as React.js, JavaScript, and Tailwind CSS. Passionate about building user-centric, scalable solutions, and constantly eager to learn and explore new technologies in the market to deliver innovative solutions.
 
